@@ -1,2 +1,2 @@
-# introductiontoprogramming2
-Introduction to Programming with Java 2
+Programlama Temellerinde yazmış olduğumuz java kodları.
+
